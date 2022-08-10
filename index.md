@@ -17,7 +17,7 @@ Starts on **17th Oct 2022 (Monday) - 10 Oct 2022**
 
 Fee: $2 payable to zhuojia.dai at g male (substitute male with mail) dot com @ Paypal. All fees will be donated to Go organisations in your region.
 
-** We may raise the fees in future **
+**We may raise the fees in future**
 
 #### Who can join?
 

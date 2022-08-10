@@ -20,10 +20,11 @@
 | **Fee** | $2 payable to zhuojia.dai at g male (substitute male with mail) dot com @ Paypal. All fees will be donated to Go organisations in your region.  *We may raise the fees in future* |
 | **Who can join?** | Anyone. But the game time is mostly in the nighttime in the Asia-pacific timezone. See table below. |
 | **Where are games played?** | OGS (online-go.com) |
-| **Timeslot** | The **preferred** time slot is 7pm Australian Eastern Standard Time. However, players are free to choose a time 
+| **Timeslot** | The **preferred** time slot is 7pm Australian Eastern Standard Time. However, players are free to choose a time |
 | **Ranking up and down** | Winning 3 games out of 4 means an up rank and losing 3 games out of 4 equates to a down rank. So handicap stones change from next season. |
 
 #####  Preferred timeslot and timezone difference
+
 | Location | Time |
 | -- | -- |
 | Melbourne/Sydney | 7pm |

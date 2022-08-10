@@ -19,7 +19,7 @@ Initially, SDK is the only league. We might start other leagues depending on int
 | **Handicaps** |  One stone per rank difference |
 | **Fee** | $2 payable to zhuojia.dai at g male (substitute male with mail) dot com @ Paypal. All fees will be donated to Go organisations in your region.  *We may raise the fees in future* |
 | **Who can join?** | Anyone. But the game time is mostly in the nighttime in the Asia-pacific timezone. See table below. |
-| **Where are games played?** | OGS (online-go.com) is the preferred platform. However, players are free to choose their platform upon mutual agreement. Please send links to games to the organiser (emails to be shared with participants). |
+| **Where are games played?** | OGS (online-go.com) |
 | **Timeslot** | The **preferred** time slot is 7pm Australian Eastern Standard Time. However, players are free to choose a time 
 | **Ranking up and down** | Winning 3 games out of 4 means an up rank and losing 3 games out of 4 equates to a down rank. So handicap stones change from next season. |
 

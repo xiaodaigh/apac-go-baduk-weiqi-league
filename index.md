@@ -1,7 +1,7 @@
 
 ## Welcome to APAC Go/Baduk/Weiqi League
 
-<center><b>SDK League Season 1</b> - <i>17th Sep 2022 - 10 Oct 2022</i></center>
+<center><b>SDK League Season 1</b> - <i>17th Sep 2022 - 10th Oct 2022</i></center>
 <br>
 <center><b><a href="https://docs.google.com/forms/d/17Z6Qh5vFtyFeXNEPLb0Pdq48i8grgW7xfS6R7NuWoMI/viewform?edit_requested=true">REGISTER HERE</a></b></center>
 

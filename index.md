@@ -1,13 +1,13 @@
 
 ## Welcome to APAC Go/Baduk/Weiqi League
 
-This league aims to facilitate regular and serious games for Go enthusiasts in the nighttime in the Asia-Pacific (APAC) timezone. 
+<center><b>SDK League Season 1</b> - <i>17th Sep 2022 - 10 Oct 2022</i></center>
 
-Initially, SDK is the only league. We might start other leagues depending on interest.
+<center><b>[REGISTER HERE](https://docs.google.com/forms/d/17Z6Qh5vFtyFeXNEPLb0Pdq48i8grgW7xfS6R7NuWoMI/viewform?edit_requested=true)</b></center>
 
 ### SDK League
 
-**How to join:** Fill out *[this form](https://docs.google.com/forms/d/17Z6Qh5vFtyFeXNEPLb0Pdq48i8grgW7xfS6R7NuWoMI/viewform?edit_requested=true)*
+**How to join:** Fill out *[this form]
 
 #### Info
 
@@ -32,7 +32,6 @@ Initially, SDK is the only league. We might start other leagues depending on int
 | Seoul/Tokyo | 6pm |
 | Bangkok | 4pm |
 
-
 #### Players
 
 gazzawhite (AusGA 6k, OGS 4k)
@@ -45,6 +44,12 @@ Depending on interest and availability, we may invite players to review games.
 
 ### Other questions
 
-**Why the scheduled dates?**
+**Why start a league?**
+This league aims to facilitate regular and serious games for Go enthusiasts in the nighttime in the Asia-Pacific (APAC) timezone. 
 
-  We try to organise the league around school holidays in Melbourne and Sydney to maximise the chance that student players can join.
+**How many leagues are there?**
+Initially, SDK is the only league. We might start other leagues depending on interest.
+
+
+**Why the scheduled dates?**
+We try to organise the league around school holidays in Melbourne and Sydney to maximise the chance that student players can join.

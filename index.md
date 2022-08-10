@@ -7,7 +7,7 @@
 
 ### SDK League
 
-**How to join:** Fill out *[this form]
+**How to join:** Fill out [this form](https://docs.google.com/forms/d/17Z6Qh5vFtyFeXNEPLb0Pdq48i8grgW7xfS6R7NuWoMI/viewform?edit_requested=true)
 
 #### Info
 

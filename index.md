@@ -3,7 +3,7 @@
 
 This league aims to facilitate regular and serious games for Go enthusiasts in the nighttime in the Asia-Pacific (APAC) timezone. 
 
-Initially, SDK is the only league. We might start other leagues might get started depending on interest.
+Initially, SDK is the only league. We might start other leagues depending on interest.
 
 ### SDK League
 

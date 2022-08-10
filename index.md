@@ -19,6 +19,10 @@ Fee: $2 payable to zhuojia.dai at g male (substitute male with mail) dot com @ P
 
 ** We may raise the fees in future **
 
+#### Who can join?
+
+Anyone. But the game time is mostly in the night time in the Asia-pacific timezone. See table below.
+
 #### Where are games played?
 
 OGS (online-go.com) is the preferred platform. Howevers, players are free to choose their platform upon mutual agreement. Please send link to games to organiser (emails to be shared with participants).

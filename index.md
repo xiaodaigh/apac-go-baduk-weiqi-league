@@ -13,7 +13,7 @@ Four Rounds - 20 min main time and 3x30s byo-omi.
 
 Handicaps are set as per current Rank
 
-Starts on **17th Oct 2022 (Monday) - 10 Oct 2022**
+Starts on **17th Sep 2022 (Monday) - 10 Oct 2022**
 
 Fee: $2 payable to zhuojia.dai at g male (substitute male with mail) dot com @ Paypal. All fees will be donated to Go organisations in your region.
 

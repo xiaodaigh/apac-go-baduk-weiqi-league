@@ -45,6 +45,9 @@ Depending on interest and availability, we may invite players to review games.
 
 ### Other questions
 
+**Single-digit kyu under which rating system**
+Whichever. As long as you think you are SDK. The organise will assign you a rank and adjust it so that the games are fun for all.
+
 **Why start a league?**
 This league aims to facilitate regular and serious games for Go enthusiasts in the nighttime in the Asia-Pacific (APAC) timezone. 
 

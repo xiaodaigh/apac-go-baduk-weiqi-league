@@ -1,7 +1,7 @@
 
 ## Welcome to APAC Go/Baduk/Weiqi League
 
-<center><b>SDK League Season 1</b> - <i>17th Sep 2022 - 10th Oct 2022</i></center>
+<center><b>SDK League Season 1</b> - <i>19th Sep 2022 - 10th Oct 2022</i></center>
 <br>
 <center><b><a href="https://docs.google.com/forms/d/17Z6Qh5vFtyFeXNEPLb0Pdq48i8grgW7xfS6R7NuWoMI/viewform?edit_requested=true">REGISTER HERE</a></b></center>
 
@@ -11,7 +11,7 @@
 
 #### Info
 
-| Date | 17th Sep 2022 - 10th Oct 2022 |
+| Date | 19th Sep 2022 - 10th Oct 2022 |
 | -- | -- |
 | **Format** | Four Rounds 
 | **Time Control** | 20 min main time and 3x30s byo-yomi |

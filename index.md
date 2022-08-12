@@ -11,7 +11,7 @@
 
 #### Info
 
-| Date | 17th Sep 2022 - 10 Oct 2022 |
+| Date | 17th Sep 2022 - 10th Oct 2022 |
 | -- | -- |
 | **Format** | Four Rounds 
 | **Time Control** | 20 min main time and 3x30s byo-yomi |

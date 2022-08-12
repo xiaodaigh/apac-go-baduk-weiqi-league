@@ -21,7 +21,7 @@
 | **Where are games played?** | OGS (online-go.com) |
 | **Timeslot** | The **preferred** time slot is Monday 7pm Australian Eastern Standard Time. However, players are free to choose a mutually agreeable time |
 | **Ranking up and down** | Winning 3 games out of 4 means an up rank and losing 3 games out of 4 equates to a down rank. So handicap stones change from next season. |
-| **Discord** | [Sign-up here](https://discord.gg/Hza6G3eS9T) |
+| **Discord** | [Sign-up here](https://discord.gg/Hza6G3eS9T) Most communications should occur here |
 
 #####  Preferred timeslot and timezone difference
 

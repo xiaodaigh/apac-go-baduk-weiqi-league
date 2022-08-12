@@ -15,6 +15,7 @@
 | -- | -- |
 | **Format** | Four Rounds 
 | **Time Control** | 20 min main time and 3x30s byo-yomi |
+| **Scoring & Rules** | Japanese Rules with 6.5 komi |
 | **Handicaps** |  One stone per rank difference |
 | **Fee** | $2 payable to zhuojia.dai at g male (substitute male with mail) dot com @ Paypal. All fees will be donated to Go organisations in your region.  *We may raise the fees in future* |
 | **Who can join?** | Anyone. But the game time is mostly in the nighttime in the Asia-Pacific (APAC) timezone. See table below. |

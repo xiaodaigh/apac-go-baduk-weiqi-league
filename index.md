@@ -13,7 +13,7 @@
 
 | Date | 19th Sep 2022 - 10th Oct 2022 |
 | -- | -- |
-| **Format** | Four Rounds 
+| **Format** | Four Rounds - One game a week
 | **Time Control** | 20 min main time and 3x30s byo-yomi |
 | **Scoring & Rules** | Japanese Rules with 6.5 komi |
 | **Handicaps** |  One stone per rank difference |

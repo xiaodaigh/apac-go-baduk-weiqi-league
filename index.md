@@ -38,7 +38,7 @@
 
 | Player (OGS name) | Rank |
 | -- | -- |
-|  gazzawhite | AusGA 6k, OGS 4k |
+| gazzawhite | AusGA 6k, OGS 4k |
 | Ygozen1 | OGS 5k |
 | DrK | OGS 6k |
 | xiaodaiboy (reserve) | OGS 1k |

@@ -41,7 +41,9 @@
 | gazzawhite | AusGA 6k, OGS 4k |
 | Ygozen1 | OGS 5k |
 | DrK | OGS 6k |
+| voltrevo | OGS 7k |
 | xiaodaiboy (reserve) | OGS 1k |
+  
 
 
 

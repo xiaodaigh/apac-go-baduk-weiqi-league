@@ -3,7 +3,21 @@
 
 <center><b>SDK League Season 1</b> - <i>19th Sep 2022 - 10th Oct 2022</i></center>
 <br>
-<center><b><a href="https://docs.google.com/forms/d/17Z6Qh5vFtyFeXNEPLb0Pdq48i8grgW7xfS6R7NuWoMI/viewform?edit_requested=true">REGISTER HERE</a></b></center>
+<center><b>REGISTER CLOSED</b></center>
+
+### SDK League Season 1 Standing
+
+| Player      | Pos | Wins | Byes | DrK | gazzawhite | Ygozen1 | voltrevo | xiaodaiboy |
+|-------------|-----|------|------|-----|------------|---------|----------|------------|
+| gazzzawhite | 1   | 1    | 0    |     | NA         | 1       |          |            |
+| xiaodaiboy  | 2   | 1    | 0    |     |            |         | 1        | NA         |
+| Ygozen1     | 4   | 0    | 0    |     | 0          | NA      | 0        |            |
+| voltrevo    | 4   | 0    | 0    |     |            |         | NA       | 0          |
+| DrK         | 5   | 0    | 1    | NA  |            |         |          |            |
+
+
+
+ 
 
 ### SDK League
 

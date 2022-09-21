@@ -59,10 +59,6 @@
 | xiaodaiboy (reserve) | OGS 1k |
   
 
-
-
-
-
 ### Game Reviews (TBC)
 
 Depending on interest and availability, we may invite players to review games.
@@ -81,3 +77,9 @@ Initially, SDK is the only league. We might start other leagues depending on int
 
 **Why the scheduled dates?**
 We try to organise the league around school holidays in Melbourne and Sydney to maximise the chance that student players can join.
+
+### Funds Raised
+
+AUD$8 has been donated to the Australian Go association from season 1
+
+AUD$2 for the NZ contribution is yet to be donated, unable to find NZ donation link

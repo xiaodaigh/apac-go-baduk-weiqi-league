@@ -5,18 +5,15 @@
 <br>
 <center><b>REGISTER CLOSED</b></center>
 
-### SDK League Season 1 Standing
+### SDK League Season 1 Standing After Round 2
 
 | Player      | Pos | Wins | Byes | DrK | gazzawhite | Ygozen1 | voltrevo | xiaodaiboy |
 |-------------|-----|------|------|-----|------------|---------|----------|------------|
-| gazzzawhite | 1   | 1    | 0    |     | NA         | 1       |          |            |
-| xiaodaiboy  | 2   | 1    | 0    |     |            |         | 1        | NA         |
+| xiaodaiboy  | 1   | 2    | 0    |     | 1          |         | 1        | NA         |
+| gazzzawhite | 2   | 1    | 0    |     | NA         | 1       |          | 0          |
+| voltrevo    | 3   | 1    | 0    |     |            | 1       | NA       | 0          |
 | Ygozen1     | 4   | 0    | 0    |     | 0          | NA      | 0        |            |
-| voltrevo    | 4   | 0    | 0    |     |            |         | NA       | 0          |
-| DrK         | 5   | 0    | 1    | NA  |            |         |          |            |
-
-
-
+| DrK         | 5   | 0    | 2    | NA  |            |         |          |            |
  
 
 ### SDK League
@@ -59,9 +56,9 @@
 | xiaodaiboy (reserve) | OGS 1k |
   
 
-### Game Reviews (TBC)
+### Game Reviews
 
-Depending on interest and availability, we may invite players to review games.
+We have 4 dan level players ready to review the games.
 
 ### Other questions
 

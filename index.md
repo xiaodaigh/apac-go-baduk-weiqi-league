@@ -5,15 +5,15 @@
 <br>
 <center><b>REGISTER CLOSED</b></center>
 
-### SDK League Season 1 Standing After Round 2
+### SDK League Season 1 Standing After Round 3
 
 | Player      | Pos | Wins | Byes | DrK | gazzawhite | Ygozen1 | voltrevo | xiaodaiboy |
 |-------------|-----|------|------|-----|------------|---------|----------|------------|
-| xiaodaiboy  | 1   | 2    | 0    |     | 1          |         | 1        | NA         |
-| gazzzawhite | 2   | 1    | 0    |     | NA         | 1       |          | 0          |
-| voltrevo    | 2   | 1    | 0    |     |            | 1       | NA       | 0          |
-| Ygozen1     | 4   | 0    | 0    |     | 0          | NA      | 0        |            |
-| DrK         | 5   | 0    | 2    | NA  |            |         |          |            |
+| xiaodaiboy  | 1   | 2    | 1    |     | 1          |         | 1        | NA         |
+| voltrevo    | 1   | 2    | 0    |     | 1          | 1       | NA       | 0          |
+| gazzzawhite | 3   | 1    | 0    |     | NA         | 1       | 0        | 0          |
+| Ygozen1     | 3   | 1    | 0    | 1   | 0          | NA      | 0        |            |
+| DrK         | 5   | 0    | 2    | NA  |            | 0       |          |            |
  
 
 ### SDK League

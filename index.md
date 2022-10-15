@@ -5,15 +5,7 @@
 <br>
 <center><b>REGISTER CLOSED</b></center>
 
-### SDK League Season 1 Standing After Round 3
 
-| Player      | Pos | Wins | Byes | DrK | gazzawhite | Ygozen1 | voltrevo | xiaodaiboy |
-|-------------|-----|------|------|-----|------------|---------|----------|------------|
-| xiaodaiboy  | 1   | 2    | 1    |     | 1          |         | 1        | NA         |
-| voltrevo    | 1   | 2    | 0    |     | 1          | 1       | NA       | 0          |
-| gazzzawhite | 3   | 1    | 0    |     | NA         | 1       | 0        | 0          |
-| Ygozen1     | 3   | 1    | 0    | 1   | 0          | NA      | 0        |            |
-| DrK         | 5   | 0    | 2    | NA  |            | 0       |          |            |
  
 
 ### SDK League
@@ -22,7 +14,7 @@
 
 #### Info
 
-| Date | 19th Sep 2022 - 10th Oct 2022 |
+|  | Info |
 | -- | -- |
 | **Format** | Four Rounds - One game a week
 | **Time Control** | 20 min main time and 3x30s byo-yomi |
@@ -80,3 +72,19 @@ We try to organise the league around school holidays in Melbourne and Sydney to 
 AUD$8 has been donated to the Australian Go association from season 1
 
 AUD$2 for the NZ contribution is yet to be donated, unable to find NZ donation link
+
+## Historical
+
+### Season 1
+
+| Date | 19th Sep 2022 - 10th Oct 2022 |
+
+#### SDK League Season 1 Standing After Round 4
+
+| Player      | Pos | Wins | Byes | DrK | gazzawhite | Ygozen1 | voltrevo | xiaodaiboy |
+|-------------|-----|------|------|-----|------------|---------|----------|------------|
+| voltrevo    | 1   | 3    | 0    | 1   | 1          | 1       | NA       | 0          |
+| xiaodaiboy  | 1   | 3    | 1    | B   | 1          | 1       | 1        | NA         |
+| gazzzawhite | 3   | 1    | 1    | B   | NA         | 1       | 0        | 0          |
+| Ygozen1     | 3   | 1    | 0    | 1   | 0          | NA      | 0        | 0          |
+| DrK         | 5   | 0    | 2    | NA  | B          | 0       | 0        | B          |
